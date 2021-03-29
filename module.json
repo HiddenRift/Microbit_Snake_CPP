@@ -1,0 +1,13 @@
+{
+  "name": "iot-example",
+  "version": "1.0.0",
+  "description": "IoT nicro:bit snake",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  },
+  "targetDependencies": {},
+  "bin": "./source",
+  "private": true,
+  "author": "Robert Fry"
+}
